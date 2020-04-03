@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "phpoffice/phpspreadsheet": "^1.11"
+    }
+}
